@@ -43,4 +43,12 @@ public abstract class Character {
     public int getStepSize() {
         return stepSize;
     }
+
+    public int getPosX() {
+        return posX;
+    }
+
+    public int getPosY() {
+        return posY;
+    }
 }
